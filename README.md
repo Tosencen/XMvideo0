@@ -1,6 +1,34 @@
-# XMvideo - macOS 菜单栏视频压缩工具
 
+ <h1 align="center"> XMvideo - macOS视频压缩工具
+  </h1>
+
+<div align="center">
 XMvideo 是一个原生 macOS 菜单栏应用，提供便捷的视频压缩功能。
+
+## 📱 屏幕截图
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+     <img width="200" alt="01" src="https://github.com/user-attachments/assets/25c3266c-ee01-4938-b7f8-63863cde129f" />
+    </td>
+    <td align="center">
+     <img width="200" alt="02" src="https://github.com/user-attachments/assets/cec5784b-cae8-4247-aa74-1963f5a310f0" />
+    </td>
+    <td align="center">
+      <img width="200" alt="03" src="https://github.com/user-attachments/assets/21cf839b-8679-41f2-8998-35f189103daf" />
+    </td>
+  </tr>
+  <tr>  
+  </tr>
+</table>
+
+</div>
+
+---
+
 
 ## 功能特性
 
