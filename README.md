@@ -26,6 +26,7 @@ XMvideo 是一个原生 macOS 菜单栏应用，提供便捷的视频压缩功�
 </table>
 
 </div>
+</div>
 
 ---
 
